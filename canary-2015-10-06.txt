@@ -1,0 +1,40 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+At WKS Information Technologies, LLC, we believe that privacy, free
+speech, and due process of law are inalienable universal human rights.
+We will exhaust all legal remedies to protect the privacy, security, and
+due process rights of our customers.
+
+As of October 6th, 2015
+
+WKS Information Technologies, LLC has not:
+
+a) Received any National Security Letters (NSLs).
+b) Received any FISA court orders.
+c) Been subject to a gag order by any court or government agency.
+d) Placed any backdoors in our hardware or software and has not received
+any requests to do so.
+e) Had any hardware seized or taken by any third party.
+f) Disclosed any user communications to any third party.
+g) Disclosed any keys or key material to any third party.
+
+This report will be updated quarterly. The next report will be posted no
+later than January 6th 2016.
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQIcBAEBCAAGBQJWFFaGAAoJEIH5Xas/j3JGECMP/RsC5zWAYNoLrGDtH/Mhv1qO
+OFEOUpuodMBMoNU5EfYNd9SwaYOqORodzUYmvtgqoFZDD0JJj6i6j9LZh3SY30wE
+3AZahvkkBR8wvI/CWoA1bJZlgWqEE1rG3pOrSxDE8qLPd1nU42ixc9+Gjf7Mzl6M
+2wJUX0FjgTsypXfUNiDb88j8MdwkowKRActPePkK2nCJCSqMPe65/FPr9RVBAy3H
+UA/NDwqDO25zmAIzuPuUHQ2qZAsNtZCt+dkWHXDRzIGi+MDpJZc4ttqkgOBR4bdp
+UPwSj39tfqN0WX93zxHdMZm3VsfqCt1eFmn0PEwfaYDBMQzwQdtNsgl0JI6mG7kc
+GRhVvyCjTz/af3QVCnAMerkvtLF9qeQzGW4B3hwgNpVaYOFBP6kfefr3mrbVwMz+
+tVrAGYYnlfhaIFcG7tSeajRkOBIkBJ6zA0v0PMESHOAR9kP4JoCWYVUYQjYJjgyO
+tA3Q78K/eAiZD9xD3UlitoWHtMpCrILyb/z0G4whpA4UrX3qvrec3IwhbjAWaUzT
+70CxxhwqndQIJYBwdNx7gWj0ZxnKlkMspvqkrbIy9JOfC6M0ryULRZ4jh22jfS+U
+3ah6zDq7odS2A/2M49VMFd8TQScxUMq7hLMTUUKEtLCkP8vJgR3OihjeUIB1s/CE
+5g9jT7pIXivN8UKGbH7h
+=Psnu
+-----END PGP SIGNATURE-----
