@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
 At WKS Information Technologies, LLC, we believe that privacy, free
 speech, and due process of law are inalienable universal human rights.
 We will exhaust all legal remedies to protect the privacy, security,
@@ -19,18 +22,21 @@ g) Disclosed any keys or key material to any third party.
 This report will be updated quarterly. The next report will be posted no
 later than April 14th 2017.
 -----BEGIN PGP SIGNATURE-----
+Version: Mailvelope v1.6.5
+Comment: https://www.mailvelope.com
 
-iQIcBAEBCAAGBQJYesHTAAoJELMaxgJk/Meps84QAKPATwpXKYyvlLtMQMIocaYt
-/ox7pnbD76EKFLllgHIkkvasWl8FcL4i3b5JGf7IK3cuuTtIcufnP1ZLqH0HdK51
-CtuTxXud3q8D7+/MXhtE56mubja6boALylHATBmkUKvBaOOCo6CnZ+nlPCw/CI+4
-7HNJ7fwVD035cqW1IFD/8xJiQck2BaNiT0IV0yQ6+9mrogqRxBN2zk4w8BlLQ00s
-8Rjeh5wdLj9doSJA1jM3oQY5jL1EG6VF026140vER9OBW1FxYqdr1kz1ydk2uYZA
-6VSntduTij1/UDKrQZBFnwnWGtmeZyVdxjZkPCHKwDQyVEThi4VwbniXirdt0sZo
-DeGzGWD3n60J/uw5aw392gfKSGDkRE20JK5sSF39lOB/Q759Ft05zUNTWwh8iEMb
-Ng7lfGRe9PJbrmCT6l9lNcp75QaMAPpFjaR+Uhk2wxALj0ESOteHCKzBCvD8CL+t
-q6pa6VYdlX3yV3R263EckQuG6NIt6eJS2ClM2PW2oe9giRV+U5AJrpR9olhmO8sy
-E72+WWAvoFNos5oNqbWadL78X5KPdZOuFS+rybzA08X1nXxwjWl3MbH3w6AADogQ
-c0VfiB9OyIqpRELUBUSe2EkCHTCLhvSo8tw4uUcWw/PWsBXqtYZ8kfepYRLgAadE
-6YUh9Y5Zp9JCKWswsV5c
-=j8AH
+wsFcBAEBCAAQBQJYhU1qCRBOmejCCUyT7AAAflcP/3Lg4R4xl+ypLWNaqwPn
+yZ0oFuzeUy2aJ65cfmtEelaL9WUlagXuNifVLJ872zLwXXEVZNZRT3cEzDwR
+12P6TQGyrKFy43sfLCTeuoc+uUQM+igTQs6wJtaVMk9Hj/MkDoQWaIkXM907
+jMMSHk3xBrJk8dsDR79D83u6iq98kW+LXAK7qmjBoeAxezvDb7TW+oHOjoOK
+B9BqRxXzlHp4+pl49bj+ResTGYqQaiiQTqmS00DpsmiHMsXZVog3u17pcqK0
+yv1+mEx341/+WRUUWmbgvc0pZD0ZLsZ7vqUNlP0H1fzR3OJAbrWXw/G/O1TL
+eBsEHUZ0TreYhpdAQ4O5qCsVi/nqKKygDVp2Ba6QQo/WCQCDiwMLEz+8hUNl
+2oKLqls/X+1xVucL1mtuLPTUKLYu9j3gAO7Ah621Q4w9By8gGDjiDOD1NTJU
+tmRRvlwo33BAZs06RQP1GlYRYcaQOSdhb0Du7zOl5m26f4CA2VsqEUJ5TBzy
+gzzkhXwM+nfu+zmfFDiFG4xj2rQM76eFo+iBf5VPsSi8FIyUoKLtAzJQVGuy
+Vzd1dlZV7Xu4xM8vqeg6LviE9mRMBJVcXoeuEil09EwfuvZb0ekph9s3EcKH
+LZB8TppEzGYNpNfUpLTqosl2npzXZIVyL7n1/KV8G+Vz/SUDjX98SL8IXT1E
+oWpp
+=T8zE
 -----END PGP SIGNATURE-----
